@@ -1,2 +1,2 @@
-# 𝚒 𝚞𝚜𝚎 𝙳𝚎𝚋𝚒𝚊𝚗 𝚋𝚝w
+# i use debian btw
 ![Debian gif](./assets/debian.gif)
